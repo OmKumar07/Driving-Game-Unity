@@ -9,8 +9,6 @@ Welcome to BaD Drive, an adrenaline-pumping Android racing game developed in Uni
 - [Gameplay](#gameplay)
 - [Installation](#installation)
 - [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

@@ -20,9 +20,8 @@ BaD Drive is an Android racing game that pushes your driving abilities to the li
 
 - **Dynamic Environments:** Explore procedurally generated environments, each presenting a unique set of challenges and surprises.
 - **Obstacle Courses:** Test your driving skills with a variety of challenging obstacles and courses designed to keep you on your toes.
-- **Vehicle Customization:** Upgrade and personalize your vehicles to improve performance and showcase your style.
-- **Multiplayer Mode:** Challenge friends in real-time multiplayer races and determine who deserves the title of the ultimate BaD Driver.
-- **Leaderboards:** Compete with players worldwide and climb the leaderboards to assert your dominance.
+- **Vehicles** Upgrade and personalize your vehicles to improve performance and showcase your style.
+- **Highscores:** Compete with players locally and create highscores to assert your dominance.
 
 ## Gameplay
 
@@ -33,7 +32,7 @@ Embark on a thrilling journey through levels filled with obstacles, hazards, and
 To install BaD Drive on your Android device:
 
 1. **Download the APK:**
-   - Visit the [Releases](https://github.com/your-username/BaDDrive/releases) section.
+   - Visit the [Releases](https://github.com/OmKumar07/Driving-Game-Unity/releases/tag/v2.9.0-final) section.
    - Download the latest APK file.
 
 2. **Install on Android:**
@@ -46,17 +45,8 @@ To install BaD Drive on your Android device:
 
 ## Controls
 
-- **Tilt:** Tilt your device to steer.
 - **Touch:** Touch the screen to accelerate.
 - **Brake Icon:** Tap the brake icon to slow down.
 - **Handbrake Icon:** Activate the handbrake for sharp turns.
-
-## Contributing
-
-We welcome contributions from the community. Report bugs, suggest features, or submit pull requests to improve BaD Drive. Check our [contribution guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-BaD Drive is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the game for personal or commercial purposes.
 
 Get ready for the ultimate BaD driving experience on your Android device! 🚗💨

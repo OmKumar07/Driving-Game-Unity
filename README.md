@@ -45,7 +45,7 @@ To install BaD Drive on your Android device:
 
 ## Controls
 
-- **Touch:** Touch the screen to accelerate.
+- **Touch:** Touch the screen to Turn Left or Right.
 - **Brake Icon:** Tap the brake icon to slow down.
 - **Handbrake Icon:** Activate the handbrake for sharp turns.
 

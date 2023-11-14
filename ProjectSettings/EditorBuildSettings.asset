@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dec920659a8bae348949c6ad842e6835
+  - enabled: 1
+    path: Assets/Scenes/CarSelect.unity
+    guid: 6087d68658f539941a13af36366e276e
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: f1e6355ab3dff6f4e83fd6ff104fac50
+  m_configObjects: {}

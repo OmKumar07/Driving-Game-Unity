@@ -40,6 +40,9 @@ To install BaD Drive on your Android device:
 3. **Launch the Game:**
    - Find the BaD Drive icon on your home screen or app drawer.
    - Tap to launch and start your BaD driving adventure.
+     
+4. **Enter Invite Code:**
+   - Enter The Invite Code "OM07"
 
 ## Controls
 

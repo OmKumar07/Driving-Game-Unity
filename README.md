@@ -32,6 +32,7 @@ To install BaD Drive on your Android device:
 1. **Download the APK:**
    - Visit the [Releases](https://github.com/OmKumar07/Driving-Game-Unity/releases/tag/v2.9.0-final) section.
    - Download the latest APK file.
+   - Enter The Invite Code "OM07"
 
 2. **Install on Android:**
    - Enable installation from unknown sources in your device settings.

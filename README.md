@@ -56,9 +56,9 @@ To install BaD Drive on your Android device:
 
   ## ScreenShots
   
-  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/3.jpg?raw=true" width="1280" height="576">
-  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/4.jpg?raw=true" width="1280" height="576">
-  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/5.jpg?raw=true" width="1280" height="576">
-  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/6.jpg?raw=true" width="1280" height="576">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/3.jpg?raw=true" width="1000" height="450">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/4.jpg?raw=true" width="1000" height="450">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/5.jpg?raw=true" width="1000" height="450">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/6.jpg?raw=true" width="1000" height="450">
 
 - Get ready for the ultimate BaD driving experience on your Android device! 🚗💨

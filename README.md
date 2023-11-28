@@ -54,7 +54,7 @@ To install BaD Drive on your Android device:
 - **Brake Icon:** Tap the brake icon to slow down.
 - **Handbrake Icon:** Activate the handbrake for sharp turns.
 
-  ##ScreenShots
+  ## ScreenShots
   
   <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/3.jpg?raw=true" width="2400" height="1080">
   <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/4.jpg?raw=true" width="2400" height="1080">

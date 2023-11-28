@@ -1,5 +1,5 @@
 # BaD Drive - Android Racing Game
-<img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/1.jpg?raw=true" width="450" height="203"><img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/1.jpg?raw=true" width="450" height="203">
+<img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/2.jpg?raw=true" width="450" height="203"><img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/1.jpg?raw=true" width="450" height="203">
 
 
 -Welcome to BaD Drive, an adrenaline-pumping Android racing game developed in Unity using C#. Experience the thrill of navigating through dynamic environments, overcoming challenging obstacles, and proving your skills as the ultimate BaD Driver.
@@ -56,9 +56,9 @@ To install BaD Drive on your Android device:
 
   ## ScreenShots
   
-  ![Image of the game's title screen](https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/3.png?raw=true)
-  ![Image of the game's title screen](https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/4.png?raw=true)
-  ![Image of the game's title screen](https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/5.png?raw=true)
-  ![Image of the game's title screen](https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/6.png?raw=true)
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/3.jpg?raw=true" width="1280" height="576">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/4.jpg?raw=true" width="1280" height="576">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/5.jpg?raw=true" width="1280" height="576">
+  <img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/6.jpg?raw=true" width="1280" height="576">
 
 - Get ready for the ultimate BaD driving experience on your Android device! 🚗💨

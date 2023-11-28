@@ -1,5 +1,5 @@
 # BaD Drive - Android Racing Game
-
+<img src="https://github.com/OmKumar07/Driving-Game-Unity/blob/main/Screenshots/1.jpg?raw=true" width="1280" height="576">
 Welcome to BaD Drive, an adrenaline-pumping Android racing game developed in Unity using C#. Experience the thrill of navigating through dynamic environments, overcoming challenging obstacles, and proving your skills as the ultimate BaD Driver.
 
 ## Table of Contents
